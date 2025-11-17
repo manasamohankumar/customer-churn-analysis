@@ -13,7 +13,9 @@ Churn directly reduces the company’s recurring revenue and lifetime customer v
 ### 1.3 Key Business Questions
 
 1️⃣ Which customer segments (tenure, demographic, service usage) have the highest churn rate?
+
 2️⃣ How do contract type, payment method, and monthly charges influence churn decisions?
+
 3️⃣ Which customers are most likely to churn next, and what retention actions should the business take to reduce churn?
 
 ## 2. Data Preparation
