@@ -33,7 +33,7 @@ Leadership wants to:
   5. Business Strategy Recommendations
 
 # Exploratory Data Analysis (Key Insights)
-   Exploratory Data Analysis (Key Insights)
+   
 1️⃣ Churn Distribution
     - 26% customers churned
      - Indicates class imbalance (typical in churn problems)
