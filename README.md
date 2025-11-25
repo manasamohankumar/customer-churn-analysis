@@ -1,44 +1,59 @@
-# Customer Churn Analytics – Telco
+# Customer Churn Prediction & Retention Strategy
+Telecommunications (Australia) — Business Analytics Project
 
-## 1. Business Understanding
+# Project Overview
+Australian telecommunications companies — including Telstra, Optus, Vodafone and TPG — face persistent customer churn challenges. Customer churn directly impacts recurring revenue and increases acquisition costs.
 
-### 1.1 Problem Statement
+This project predicts customer churn using the Telco Customer Churn dataset (Kaggle) and provides data-driven strategic recommendations for reducing churn.
+The analysis covers:
+  1. Customer behaviour patterns
+  2. Key churn drivers
+  3. Predictive modelling (Logistic Regression & Random Forest)
+  4. Retention strategy for high-risk customers
 
-A telecom company is experiencing customer churn, meaning customers are cancelling their services. High churn reduces monthly revenue and increases acquisition costs because replacing a lost customer is more expensive than retaining an existing one. The company wants to understand why customers churn and identify the main drivers behind this behaviour. Using customer demographic, account, and service usage data, we will analyse patterns related to churn. The goal is to build a predictive model that identifies high-risk customers and provides actionable insights for targeted retention strategies.
+# Business Problem
+A mid-sized Australian telecom provider (“AussieConnect”) is experiencing a 26–27% churn rate. 
+Leadership wants to:
+  1. Understand why customers churn
+  2. Identify high-risk customers
+  3. Develop targeted retention strategies based on data
 
-### 1.2 Why Churn Matters Financially
+# Objectives
+  1. Analyse customer demographics, usage behaviour, and service features
+  2. Identify key churn predictors
+  3. Build churn prediction models
+  4. Evaluate performance and trade-offs
+  5. Provide actionable business recommendations
 
-Churn directly reduces the company’s recurring revenue and lifetime customer value. Acquiring a new telecom customer is typically 5–7 times more expensive than retaining an existing one, due to marketing, onboarding, and installation costs. High churn also impacts profitability and future cash flows. Predictive churn analytics helps reduce unnecessary revenue loss and improves the efficiency of marketing spend by focusing on customers most likely to leave.
+# Tools & Techniques
+  1. Python (Pandas, NumPy, Seaborn, Matplotlib)
+  2. Scikit-Learn (Logistic Regression, Random Forest, Train/Test Split)
+  3. One-Hot Encoding & Feature Scaling
+  4. EDA & Insight Storytelling
+  5. Business Strategy Recommendations
 
-### 1.3 Key Business Questions
+# Exploratory Data Analysis (Key Insights)
+   Exploratory Data Analysis (Key Insights)
+1️⃣ Churn Distribution
+    - 26% customers churned
+     - Indicates class imbalance (typical in churn problems)
 
-1️⃣ Which customer segments (tenure, demographic, service usage) have the highest churn rate?
+2️⃣ Churn vs Tenure
+     - Customers with 0–12 months tenure churn the most
+     - L0yalty increases significantly after first year
 
-2️⃣ How do contract type, payment method, and monthly charges influence churn decisions?
+3️⃣ Churn vs Monthly Charges
+    - High-paying customers churn more
+    - Price sensitivity is a major driver
 
-3️⃣ Which customers are most likely to churn next, and what retention actions should the business take to reduce churn?
+4️⃣ Churn vs Contract Type
+    - Month-to-month customers churn 3–4× more
+    - One-year & two-year contracts strongly reduce churn
 
-## 2. Data Preparation
-
-*(To be done later)*
-
-## 3. Exploratory Data Analysis (EDA)
-
-*(To be done later)*
-
-## 4. Feature Engineering
-
-*(To be done later)*
-
-## 5. Machine Learning Models
-
-*(To be done later)*
-
-## 6. Insights & Business Recommendations
-
-*(To be done later)*
-
-## 7. Dashboard (Optional)
-
-*(To be done later)*
-End-to-end churn prediction analysis using Python and business insights.
+5️⃣ Service Features
+    - Customers WITHOUT the following churn more:
+    - Online Security
+    - Tech Support
+    - Device Protection
+    - These services reduce pain points and increase retention.
+   
