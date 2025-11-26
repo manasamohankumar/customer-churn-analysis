@@ -47,7 +47,7 @@ Leadership wants to:
      
      - L0yalty increases significantly after first year
 
-![Churn vs Tenure](images/churn vs tenure.png)
+![Churn vs Tenure](images/churn_vs_tenure.png)
 
 
 3️. Churn vs Monthly Charges
@@ -56,7 +56,7 @@ Leadership wants to:
     
     - Price sensitivity is a major driver
 
-![Monthly vs Churn](images/monthly vs churn.png)
+![Monthly vs Churn](images/monthly_vs_churn.png)
     
 4️. Churn vs Contract Type
     
@@ -64,7 +64,7 @@ Leadership wants to:
     
     - One-year & two-year contracts strongly reduce churn
     
-![Contract vs Churn](images/contract vs churn.png)
+![Contract vs Churn](images/contract_vs_churn.png)
 
 5️.  Service Features
     
@@ -78,7 +78,9 @@ Leadership wants to:
     
     - These services reduce pain points and increase retention.
 
-  ![Tech Support vs Churn](images/tech support vs churn.png)
+ ![Tech Support vs Churn](images/tech_support_vs_churn.png)
+ 
+ ![Online Security vs Churn](images/onlinesecurity_vs_churn.png)
 
   # Predictive Models Used
 
@@ -99,8 +101,8 @@ Leadership wants to:
       - Much better at identifying churners
 
       - Provides feature importance
-
-![Confusion Matrix](images/confusion matrix.png)
+        
+![Confusion Matrix](images/confusion_matrix.png)
 
   # Top Churn Drivers (Random Forest Feature Importance)
 
@@ -122,7 +124,7 @@ Leadership wants to:
 
   9. OnlineSecurity
 
-![Feature Importance](images/top 15 .png)
+![Feature Importance](images/feature_importance.png)
 
   # Business Recommendations
 
