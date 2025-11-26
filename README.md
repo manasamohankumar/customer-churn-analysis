@@ -34,27 +34,27 @@ Leadership wants to:
 
 # Exploratory Data Analysis (Key Insights)
    
-1️⃣ Churn Distribution
+1️. Churn Distribution
     - 26% customers churned
     
     - Indicates class imbalance (typical in churn problems)
 
-2️⃣ Churn vs Tenure
+2️. Churn vs Tenure
      - Customers with 0–12 months tenure churn the most
      
      - L0yalty increases significantly after first year
 
-3️⃣ Churn vs Monthly Charges
+3️. Churn vs Monthly Charges
     - High-paying customers churn more
     
     - Price sensitivity is a major driver
 
-4️⃣ Churn vs Contract Type
+4️. Churn vs Contract Type
     - Month-to-month customers churn 3–4× more
     
     - One-year & two-year contracts strongly reduce churn
 
-5️⃣ Service Features
+5️.  Service Features
     - Customers WITHOUT the following churn more
     
     - Online Security
