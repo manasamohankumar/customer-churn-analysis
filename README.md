@@ -74,6 +74,94 @@ Leadership wants to:
     - Device Protection
     
     - These services reduce pain points and increase retention.
-    
-  
 
+  
+  # Predictive Models Used
+
+  1. Logistic Regression
+
+     - Baseline explainable model
+
+     - Accuracy: ~80%
+
+     - Lower recall → struggles to capture churners
+  
+  2. Random Forest
+
+      - Handles non-linear relationships
+
+      - Accuracy: ~80%
+
+      - Much better at identifying churners
+
+      - Provides feature importance
+
+  # Top Churn Drivers (Random Forest Feature Importance)
+
+  1. TotalCharges
+
+  2. Tenure
+
+  3. MonthlyCharges
+
+  4. Fiber Optic Internet
+
+  5. Electronic Check Payment Method
+
+  6. Contract Duration (1-year, 2-year)
+
+  7. Partner / Dependents
+
+  8. TechSupport
+
+  9. OnlineSecurity
+
+(Insert your feature importance plot here)
+
+  # Business Recommendations
+
+  1. Convert Month-to-Month Customers into Annual Plans
+
+      - Offer discounts for 12-month / 24-month contracts
+
+      - Provide loyalty bonuses (free router upgrades, priority support)
+
+2. Create Pricing Relief Programs
+
+      - High-paying fiber optic users are most likely to churn
+
+      - Bundle discounts or flexible payment plans recommended
+
+3. Improve Payment Experience
+
+   Electronic check users churn more:
+
+     - Promote auto-pay and paperless billing
+
+     - Offer $5 discount for first-time auto-pay enrolment
+
+4. Promote Value-Added Services
+
+   Customers without:
+
+     - TechSupport
+
+     - OnlineSecurity
+
+   churn significantly more.
+
+   Offer:
+
+   - 1-month free TechSupport trial
+
+   - Security package promotions
+
+5. Target High-Risk Customers
+
+   Use churn probability scores to:
+
+   - Send personalised retention offers
+
+   - Prioritise customer service outreach
+
+   - Implement “save” campaigns for predicted churners
