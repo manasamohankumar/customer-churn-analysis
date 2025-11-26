@@ -173,7 +173,29 @@ Leadership wants to:
    - Prioritise customer service outreach
 
    - Implement “save” campaigns for predicted churners
+
   
+## 🚀 How to Run the Notebook
+
+To reproduce this analysis:
+
+1. **Clone the repository**
+
+2. **Install dependencies**
+
+3. **Open the Jupyter Notebook**
+- Go to the `notebooks` folder  
+- Open `customer_churn_project.ipynb`  
+
+4. **Run all cells**
+This will generate:
+
+- Data cleaning  
+- Exploratory Data Analysis  
+- Model training  
+- Predictions  
+- Business insights  
+
  # Skills Demonstrated
 
    - Data Cleaning & Preparation
