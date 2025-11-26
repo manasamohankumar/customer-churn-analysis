@@ -40,7 +40,7 @@ Leadership wants to:
     
     - Indicates class imbalance (typical in churn problems)
     
-
+![Churn Distribution](images/churn distrubution.png)
 
 2️. Churn vs Tenure
      
@@ -48,20 +48,24 @@ Leadership wants to:
      
      - L0yalty increases significantly after first year
 
+![Churn vs Tenure](images/churn vs tenure.png)
+
+
 3️. Churn vs Monthly Charges
     
     - High-paying customers churn more
     
     - Price sensitivity is a major driver
+
+![Monthly vs Churn](images/monthly vs churn.png)
     
-
-
 4️. Churn vs Contract Type
     
     - Month-to-month customers churn 3–4× more
     
     - One-year & two-year contracts strongly reduce churn
     
+![Contract vs Churn](images/contract vs churn.png)
 
 5️.  Service Features
     
@@ -75,7 +79,8 @@ Leadership wants to:
     
     - These services reduce pain points and increase retention.
 
-  
+  ![Tech Support vs Churn](images/tech support vs churn.png)
+
   # Predictive Models Used
 
   1. Logistic Regression
@@ -95,6 +100,8 @@ Leadership wants to:
       - Much better at identifying churners
 
       - Provides feature importance
+
+![Confusion Matrix](images/confusion matrix.png)
 
   # Top Churn Drivers (Random Forest Feature Importance)
 
@@ -116,7 +123,7 @@ Leadership wants to:
 
   9. OnlineSecurity
 
-(Insert your feature importance plot here)
+![Feature Importance](images/top 15 .png)
 
   # Business Recommendations
 
