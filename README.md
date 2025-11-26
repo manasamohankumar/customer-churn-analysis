@@ -165,3 +165,19 @@ Leadership wants to:
    - Prioritise customer service outreach
 
    - Implement “save” campaigns for predicted churners
+  
+ # Skills Demonstrated
+
+   - Data Cleaning & Preparation
+
+   - EDA & Insight Storytelling
+
+   - Predictive Modelling
+
+   - Classification Metrics
+
+  - Business Strategy & Communication
+
+  - Model Interpretation
+
+  - End-to-End Analytics Workflow
