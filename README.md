@@ -38,21 +38,25 @@ Leadership wants to:
     - 26% customers churned
     
     - Indicates class imbalance (typical in churn problems)
+<img width="922" height="746" alt="image" src="https://github.com/user-attachments/assets/a12c4f0f-6dc8-4d1c-a1c6-f5e2a6bf2be2" />
 
 2️. Churn vs Tenure
      - Customers with 0–12 months tenure churn the most
      
      - L0yalty increases significantly after first year
+     <img width="958" height="608" alt="image" src="https://github.com/user-attachments/assets/535dd909-3d18-4ad4-91e5-4e9abcce3387" />
 
 3️. Churn vs Monthly Charges
     - High-paying customers churn more
     
     - Price sensitivity is a major driver
+    <img width="968" height="630" alt="image" src="https://github.com/user-attachments/assets/e36c4ecd-14ea-4fb8-8709-d058d5be3726" />
 
 4️. Churn vs Contract Type
     - Month-to-month customers churn 3–4× more
     
     - One-year & two-year contracts strongly reduce churn
+<img width="986" height="696" alt="image" src="https://github.com/user-attachments/assets/bcaf0302-c99a-47de-ba24-5526234f9c74" />
 
 5️.  Service Features
     - Customers WITHOUT the following churn more
@@ -64,4 +68,6 @@ Leadership wants to:
     - Device Protection
     
     - These services reduce pain points and increase retention.
-   
+   <img width="862" height="544" alt="image" src="https://github.com/user-attachments/assets/483e5610-05d1-4a08-8691-081ea38cee32" />
+<img width="912" height="570" alt="image" src="https://github.com/user-attachments/assets/80f6b846-bb91-46ab-8085-8baab22d260f" />
+
