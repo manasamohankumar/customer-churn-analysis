@@ -38,9 +38,8 @@ Leadership wants to:
     
     - 26% customers churned
     
-    - Indicates class imbalance (typical in churn problems)
-    
-![Churn Distribution](images/churn distrubution.png)
+    - Indicates class imbalance (typical in churn problems)   
+![Churn Distribution](images/churn_distribution.png)
 
 2️. Churn vs Tenure
      
