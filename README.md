@@ -45,7 +45,7 @@ Leadership wants to:
      
      - Customers with 0–12 months tenure churn the most
      
-     - L0yalty increases significantly after first year
+     - Loyalty increases significantly after first year
 
 ![Churn vs Tenure](images/churn_vs_tenure.png)
 
